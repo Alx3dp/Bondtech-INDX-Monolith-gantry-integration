@@ -2,7 +2,7 @@
 
 As of right now there are only options for the Beacon and Cartographer probes, I am planning to make a version for the INDX custom one but will wait until it is released so that I can confirm dimensions of it.
 
-The Beacon/cartographer mounts shoudl eb compatible with all versions of these probesthat have the cables going upwards, so the low profile versions are not compatible.
+The Beacon/cartographer mounts should be compatible with all versions of these probes that have the cables going upwards, so the low profile versions are not compatible.
 
 If you have a different probe you wish to use contact me and I will see what I can do, contact details are in the main readme.
 

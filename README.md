@@ -5,6 +5,10 @@ My modifications are based either off of the official reference models from Bond
 
 Since every printer is different I have organised this repository with modularity in mind, here is soem general information, you will find more detailed information or hardware BOM'S in the relevant folders.
 
+# IMPORTANT
+ 
+I have noticed an issue with the toolbar spacing, it is about 6mm too far away from the toolhead, so do not print any parts for now. I will fix this asap, as long as this comment is here assume the issue is still there.
+
 # 0 - Unchanged INDX reference parts
 You do not need to print any parts from this folder, the contents are only there as reference if you want to make a CAD model for your specific configuration. These are the parts of the INDX toolhead that are not modified, everything here is included when you order the toolhead.
 
@@ -34,6 +38,12 @@ You will find more information in the readme in the folder, but once again you o
 
 # 5 - Miscellaneous
 Lastly "the other stuff", basically optional or quality of life parts that do not fit in the other categories, check the readme in the folder for more details.
+
+# future plans:
+
+No protrusion versiopns fo the toolbar, so that it is also compatible with stock 2020 Voron frames and panels
+
+6mm belt compatibility
 
 # Licenses
 Because Monolith3d and Bondtech use different licenses there is no overarching license for this entire project.

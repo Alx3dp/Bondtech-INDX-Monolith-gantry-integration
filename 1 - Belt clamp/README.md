@@ -5,7 +5,7 @@ The Belt clap design is based off of the official Monolith belt clamp you can fi
 I redesigned it a little to make it compatible with the INDX toolhead, it allows up to 12mm wide belts.
 I would recommend using the strongest material you can for this part since the walls of the screw holes need to be quite thin due to the way the toolhead is designed, I personally use annealed pet-gf.
 
-To reach higher belt tensions that increase imput shaper performance and therefor maximum usable acelleration I highly recommend using a pretensioner to tension and fix the belts in place when installing the belt clamp, best ask in teh Monolith discord and someone will probably be able to point you towards one, I will make my own design at some point as well.  
+To reach higher belt tensions that increase imput shaper performance and therefor maximum usable acelleration I highly recommend using a pretensioner to tension and fix the belts in place when installing the belt clamp, best ask in the Monolith discord and someone will probably be able to point you towards one, I will make my own design at some point as well.  
 
 If you want to use a Nozzle camera you need to choose the appropriate folder since the camera mount is integrated into the belt clamp.
 
