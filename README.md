@@ -5,10 +5,6 @@ My modifications are based either off of the official reference models from Bond
 
 Since every printer is different I have organised this repository with modularity in mind, here is soem general information, you will find more detailed information or hardware BOM'S in the relevant folders.
 
-# IMPORTANT
- 
-I have noticed an issue with the toolbar spacing in teh 2wd CAD, it is about 6mm too far away from the toolhead, so do not print any parts for now. I will fix this asap, as long as this comment is here assume the issue is still there.
-
 # 0 - Unchanged INDX reference parts
 You do not need to print any parts from this folder, the contents are only there as reference if you want to make a CAD model for your specific configuration. These are the parts of the INDX toolhead that are not modified, everything here is included when you order the toolhead.
 

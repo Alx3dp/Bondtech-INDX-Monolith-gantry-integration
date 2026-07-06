@@ -19,41 +19,41 @@ except the screw which is m3x6 FHCS instead of m3x :
 
 The toolbar is a 1515 aluminum extrusion on which the tool holders are mounted.
 
-The tool holders are designed for minimal Y-travel loss.
-Because I use 4040 extrususions for my verticals I did not concern myself with making it compatible with stock Voron frame/doors, so double check if it works out with your specific frame and door or not.
-If you want a no protrusion version of these contact me and I will see what I can do, contact details are in teh main readme.
+The tool holders are designed for minimal Y-travel loss and do not protrude beyond the motor mounts, so if you cant have anythign btrotruding beyond the frame either use the NP Monolith front motor mounts with the awd toolbar or the NP parts for 2wd.
 
-Since Monolith Awd gantries already have mounting holes intended for such a purpose, you can mount the toolbar with just 2 adapter pieces, while on 2wd you need to replace the front idlers with modified ones.
-The result of that is that the Awd toolbar is also compatible with the LDO CNC monolith gantry.
+Since Monolith Awd gantries already have mounting holes intended for such a purpose, you can mount the toolbar with just 2 adapter pieces, same for 2wd though there the adapter pieces are bigger and go into the front idler mounting holes, check the cad if you want to know more.
 
+The awd version is fully compatible with the LDO CNC Monolith kits, however the 2wd is not since the cnc uses different thicknesses on the front idlers, however that would be a relatively easy change to make.
 # BOM:
 
-Awd:
+Awd and 2wd:
+
+2x m3x6 FHCS | used to attach the 1515 beam to the adapters
+
+2x m3 square nuts | used to attach the 1515 beam to the adapters
+
+optional: you can tap the 1515 extrusion and use a m3 screws through there for added strength, however that will make assembly and disassembly a bit harder 
+
+Awd specific:
 
 1515 aluminum extrusion 
     for a standard 350mm: 370mm
     for a standard 300mm: 320mm
     for a standard 250mm: ~70mm
 
-2x m3x6 FHCS | used to attach the 1515 beam to the adapters
-
-2x m3 square nuts | used to attach the 1515 beam to the adapters
-
 4x m3x5x4 heat set inserts | used to mount the toolbar to the motor mounts
 
-2x m3x6-12 | used to mount the toolbar to the motor mounts
+4x m3x6-12 | used to mount the toolbar to the motor mounts
 
-2wd:
-
-All the regular Monolith front idler hardware
+2wd specific:
 
 1515 aluminum extrusion 
-    for a standard 350mm: ~420mm
-    for a standard 300mm: ~370mm
-    for a standard 250mm: ~320mm
+    for a standard 350mm: ~410mm
+    for a standard 300mm: ~360mm
+    for a standard 250mm: ~310mm
 
-2x m3x10 screws | used to attach the 1515 beam to the Front idler
+2wd fixed gantry specific:
 
-2x m3x20 screws | used to attach the 1515 beam to the Front idler
-
-4x m3 square nuts | used to attach the 1515 beam to the Front idler
+4 screws used to mountign the idlers to teh gantry are replaced by 4mm longer ones
+    on 6mm belts version:   4x M5x16 replaced by 4x M5x20
+    on 9/10mm belts version: 4x M5x10 replaced by 4x M5x14
