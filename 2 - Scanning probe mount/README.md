@@ -1,6 +1,6 @@
 # Scanning Z probe mounts
 
-Important: Cartographer V3 only is compatible with the mounts with Nozzle cam in the right angle configuration like this: https://cartographer3d.com/products/cartographer-probe-v3-with-adxl345-right-angle-can-usb 
+Important: Cartographer V3 and beacon revD only is compatible with the mounts with Nozzle cam in the right angle configuration while Beacon revH is only compatible with it in the regular configuration, not the low profile one.
 If you have the regular or low profile versions you need to resolder it to be right angle.
 However he regular version definitly works with the no nozzle cam mount, the low profile one might but you will need to bend the wires quite sharply.
 
